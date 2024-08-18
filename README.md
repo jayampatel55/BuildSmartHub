@@ -39,15 +39,18 @@ Direct Communication: Service providers can respond to customer inquiries throug
 Modules/Scope:
 
 1. Admin
+
 Manage user registrations and data sorting.
 Verify service providers through legal documentation.
 Oversee content and user activity to ensure platform integrity.
 
 2. Customer
+   
 Explore and search for various services.
 Contact service providers and rate their services.
 
 3. Service Providers
+
 Register and verify identity and profession.
 Showcase products and services with detailed descriptions.
 Communicate with customers and manage inquiries through the chatbot
